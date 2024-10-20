@@ -1,4 +1,4 @@
-# edu-plus
+# EduPlus
 
 ## Project setup
 ```
